@@ -1,28 +1,7 @@
 # Projet_JAVA
-on teste git hub 
-dsdjnbqsjds dd
-qsqsdqs
-dqs
-d
-qsd
-sq
-dsq
-d
-qsd
-qs
-dq
-sd
-qs
-dqdqsdsq
-qsdqsdqsdqd
-qs
-dqs
-dqs
-d
-qsd
-qsd
-qsd
-sq
-d
-qs
-dqsd
+Bonjour les petits pd, ici on bosse le projet
+Alors chacun a sa branche 
+Adrien toi c'est Projet-Adrien et Louis c'est Projet-Louis
+Vous mettez vos texte que vous  allez modifier au fur et à mesure 
+
+VOILI VOILOU !!
