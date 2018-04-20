@@ -94,7 +94,7 @@ public class Test {
        } ///Si tu clique on enleve la boucle for et on incremente le i
             
        }
-       
+       //qsdqsdsqsqdsqsqd
        if(table=="malade")
        {
             try {
@@ -123,12 +123,12 @@ public class Test {
         ArrayList <ArrayList<Object>> InfoDocteur = new ArrayList();
         ArrayList <ArrayList <ArrayList<Object>>> ToutLesInfos = new ArrayList();
         
-        //Les differentes requêtes qui auront lieux
+        //Les differentes requÃªtes qui auront lieux
         String requete="";
         String requeteSpecia="";
         String requeteSoigne="";
         
-        //On créer des boolean pour savoir si le champ est vide
+        //On crÃ©er des boolean pour savoir si le champ est vide
         boolean nomB= true;
         boolean prenomB= true;
         boolean specialiteB= true;
